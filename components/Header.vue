@@ -5,7 +5,7 @@
 
         <NuxtLink to="/">
           <div class="flex-shrink-0 flex items-center">
-            <h2 class="text-3xl sm:text-4xl">logo</h2>
+            <h2 class="text-3xl sm:text-4xl">nuxt3</h2>
           </div>
         </NuxtLink>
 
